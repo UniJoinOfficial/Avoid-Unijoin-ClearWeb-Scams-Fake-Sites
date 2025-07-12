@@ -20,8 +20,7 @@
 4. **Never enter private keys** or seed phrases.
 
 ## ✅ **Only Trust Official Sources**
-- Official Website: [unijoin.io](https://unijoin.io) (Verify independently)
-- Official GitHub/Twitter (Check for verification badges).
+- Official GitHub/Reddit.
 
 ## 📢 Report Scams
 If you encounter a new scam URL:
