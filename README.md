@@ -14,6 +14,8 @@ The following fake domains are NOT affiliated with us and will steal your funds:
 
 ❌ unijoin.me (and all subdomains)
 
+❌ unijoin.xyz (and all subdomains)
+
 How to Spot the Scam:
 
 🔴 Fixed order IDs (e.g., NDvdakyOAbS28U7). Legitimate services generate unique IDs per transaction.
